@@ -94,6 +94,11 @@ https://convert-my-image.com/imageconverter_pt <br>
 # Aula 15 - M1
 📌 Laços e Iterações - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Guide/Loops_and_iteration
 
+# Aula 16 - M1
+📌 Arrays - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array <br>
+📌 For - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/for
+
+
 
 # Links dos projetos do Modulo II
 📌 Projeto individual - Entrega dia 14/10/2022 - https://www.youtube.com/watch?v=_N8YilDGOMk <br> 
