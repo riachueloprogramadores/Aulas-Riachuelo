@@ -98,7 +98,8 @@ https://convert-my-image.com/imageconverter_pt <br>
 📌 Arrays - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Array <br>
 📌 For - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/for
 
-
+# Aula 18 - M1
+📌 Click - https://developer.mozilla.org/pt-BR/docs/Web/API/Element/click_event <br>
 
 # Links dos projetos do Modulo II
 📌 Projeto individual - Entrega dia 14/10/2022 - https://www.youtube.com/watch?v=_N8YilDGOMk <br> 
